@@ -2,5 +2,9 @@
 class = 10
 score =10
 grade = B
+<<<<<<< HEAD
 school=alii
 
+=======
+school=paali
+>>>>>>> 7cf958274bbc8cba3cc91fa28a1ef165b5ded952
